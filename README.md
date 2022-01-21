@@ -13,5 +13,4 @@
 <a href="https://dribbble.com/hamzaa-saleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="hamzaa-saleem" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamzaa-saleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamzaa-saleem" height="30" width="40" /></a>
 </p>
-<h3 align="left">GitHub Statistics:</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=hamzaa-saleem&show_icons=true&theme=buefy">
