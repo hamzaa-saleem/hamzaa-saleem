@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, Myself Hamza Saleem</h1>
-<h3 align="center">Love To Write Awesome Code!</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzaa-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="hamzaa-saleem" /> </p>
 
